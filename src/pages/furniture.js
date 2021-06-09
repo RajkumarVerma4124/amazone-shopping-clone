@@ -5,7 +5,7 @@ import { useEffect, useState } from "react";
 import Banner from "../components/Banner"
 import Footer from "../components/Footer"
 import Header from "../components/Header"
-import ProductFurnitureFeed from "../components/productfurniturefeed"
+import ProductFurnitureFeed from "../components/ProductFurnitureFeed"
 import { addProducts } from "../slices/basketSlice"
 import { useDispatch } from "react-redux";
 
