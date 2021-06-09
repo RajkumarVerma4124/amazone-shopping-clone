@@ -1,4 +1,4 @@
-import ProductFurniture from "./productfurniture";
+import ProductFurniture from "./ProductFurniture";
 
 function ProductFurnitureFeed({ productsFurniture }) {
     return (
